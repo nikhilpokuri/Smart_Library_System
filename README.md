@@ -30,9 +30,3 @@ The Smart Library System is a comprehensive solution for managing library resour
 - `store.py`: Handles storage and retrieval of data.
 - `main.py`: Entry point of the application.
 
-
-This project is licensed under the MIT License.
-
----
-
-You can customize this content based on your specific implementations and details.
